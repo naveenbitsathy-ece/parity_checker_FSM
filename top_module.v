@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 `include "clk.v"
-`include "res.v"
+`include "design.v"
 module top_module(
             input clk_in,  
             input reset,
